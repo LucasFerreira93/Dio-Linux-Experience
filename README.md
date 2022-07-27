@@ -1,5 +1,4 @@
-# Dio-Linux-Experience
-BootCamp - Linux Experience
+## Dio-Linux-Experience
 
 O Bootcamp Linux Experience é um programa voltado para as tecnologias Linux. Contendo cursos, desafios de código, desafios de projeto e mentorias, que ajudarão você a se tornar um desenvolvedor ainda mais preparado dentro desta tecnologia.
 
