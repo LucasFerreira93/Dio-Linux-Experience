@@ -1,6 +1,6 @@
 
 
-![Linux Dio Experience](C:\Workspace\Outras informações\Linux Dio Experience.png)
+![](C:\Workspace\Outras informações\Linux Dio Experience.png)
 
 ## 									Dio-Linux-Experience
 
